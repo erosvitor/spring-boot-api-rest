@@ -1,5 +1,5 @@
 ## About
-The project shows how to build an API Rest using the Spring Boot.
+Project created in the Spring Boot course.
 
 ## Technologies
 The following tools were used in this project:
